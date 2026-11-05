@@ -1,0 +1,32 @@
+# Credenciais e segredos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+*.kdbx
+
+# Evidências brutas ou restritas
+evidencias-brutas/
+evidencias-sensiveis/
+dados-reais/
+*.pcap
+*.pcapng
+
+# Material de avaliação de terceiros - não redistribuir automaticamente
+*.pka
+
+# Ambientes e arquivos temporários
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
