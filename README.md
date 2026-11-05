@@ -6,6 +6,10 @@ Portfólio acadêmico e repositório central dos laboratórios do curso **Técni
 **Conta GitHub deste projeto:** [@gabriel-silima](https://github.com/gabriel-silima)  
 **Situação:** estrutura inicial de documentação; resultados práticos só serão marcados como concluídos após validação por evidências.
 
+## Portfólio visual
+
+Uma página estática responsiva foi criada em [`index.html`](index.html), pronta para publicação via GitHub Pages após ativação manual em Settings → Pages. Veja [como configurar](docs/configurar-github-pages.md). A publicação do Pages ainda não foi verificada.
+
 ## Organização
 
 | Área | Conteúdo | Estado da documentação |
